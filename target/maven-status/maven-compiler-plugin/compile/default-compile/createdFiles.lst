@@ -1,0 +1,8 @@
+pages\BasePage.class
+pages\PostPage.class
+extensions\AppiumExtension.class
+pages\PostListPage.class
+pages\UserPage.class
+providers\SelenideWebDriver.class
+pages\UserListPage.class
+interfaces\ListPage.class
